@@ -22,3 +22,5 @@ public class TicTacToeRules {
 		     System.out.format("Patterns can be diagonal, horizontal, or vertical\n");
 		     System.out.format("5.A winning pattern is completed by drawing a line through the pattern\n");
 		     
+	}
+}
