@@ -6,7 +6,7 @@ package sup;
 public class BingoRules {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-                      System.out.format("Bingo Card\n");
+                System.out.format("Bingo Card\n");
                          System.out.format( "\n");
                        System.out.format("1.The caller randomly pulls a numbered bingo ball.\n");
                          System.out.format( "\n");
