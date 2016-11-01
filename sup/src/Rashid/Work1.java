@@ -1,5 +1,5 @@
 package Rashid;
-in
+
 /*ClassName.java
  * takes an integer as input ,then tests it to see if it is 
  * 
