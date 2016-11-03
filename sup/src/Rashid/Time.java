@@ -7,7 +7,7 @@ import java.util.Scanner;
         * oct/11/16
         * Aisha Rashid
         */
-
+package Rashid;
 public class Time {
 
 	public static void main(String[] args) {
@@ -35,15 +35,15 @@ public class Time {
 		  
 		System.out.format("%10s%10s","Task","%Time");
 		
-		System.out.format("Desiging" + df.format(design\design+coding+debugging+testing)*100);
+		System.out.format("Desiging" + df.format((design/design+coding+debugging+testing)*100));
 		
 		
-		System.out.format("Coding" + df.format(design+coding+debugging+testing)*100);
+		System.out.format("Coding" + df.format((coding/design+coding+debugging+testing)*100));
 		
 		
-		System.out.format("debugging"+ df.format(
+		System.out.format("debugging"+ df.format((debugging/design+coding+debugging+testing)*100));
 		
-		
+		scan.close();
 	}
 
 }
