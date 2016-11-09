@@ -2,9 +2,10 @@ package Rashid;
 
 import java.util.Scanner;
 
-/*
- * 
- * 
+/*Random1.java
+ * Takes your name and tells you if it is your favorite  or not 
+ * Nov/9/16
+ * Aisha Rashid 
  */
 public class Random1 {
 
