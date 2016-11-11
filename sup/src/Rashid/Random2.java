@@ -2,7 +2,7 @@ package Rashid;
 import java.util.Scanner;
 
 /*Random1.java
- * 
+ * Rolling two dice 
  * Nov/9/16
  * Aisha Rashid 
  */
