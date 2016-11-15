@@ -1,13 +1,13 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
-
-
+import java.text.DecimalFormat;
+package Rashid;
    /*ClassName.java
         *Time 
         * oct/11/16
         * Aisha Rashid
         */
-package Rashid;
+
 public class Time2 {
 
 	public static void main(String[] args) {
