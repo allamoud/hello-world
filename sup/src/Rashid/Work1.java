@@ -2,7 +2,7 @@ package Rashid;
 
 /*ClassName.java
  * takes an integer as input ,then tests it to see if it is 
- * 
+ * Aisha Rashid 
  */
 public class Work1 {
 

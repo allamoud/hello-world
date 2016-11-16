@@ -31,7 +31,7 @@ public class Random1 {
 		else if
 		
 		(x>=30)
-			System.out.println(a +"That is your favrite name ");
+			System.out.println(a +"that is your favrite name ");
 	}
 
 }
