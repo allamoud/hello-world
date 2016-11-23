@@ -22,7 +22,7 @@ public class Work1 {
      else
      {
      System.out.println("Your number is negative");
-     if
+     
         
 	}
 

@@ -14,7 +14,7 @@ public class Random1 {
      
 		
 		Scanner scan=new Scanner (System.in);
-		
+		`
 		       int x;
 		       
 		System.out.print ("What is your name ");

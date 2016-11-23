@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 import java.text.DecimalFormat;
-package Rashid;
+ package sup;
    /*ClassName.java
         *Time 
         * oct/11/16
