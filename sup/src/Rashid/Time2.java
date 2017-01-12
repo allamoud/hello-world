@@ -1,7 +1,8 @@
-import java.text.DecimalFormat;
+ package Rashid ;
 import java.util.Scanner;
 import java.text.DecimalFormat;
- package sup;
+
+ 
    /*ClassName.java
         *Time 
         * oct/11/16
@@ -43,7 +44,7 @@ public class Time2 {
 		
 		System.out.format("debugging"+ df.format((debugging/design+coding+debugging+testing)*100));
 		
-		scan.close();
+		
 	}
 
 }
