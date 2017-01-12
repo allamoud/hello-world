@@ -3,7 +3,9 @@ package Rashid;
 // To write a program to spell out MISSISSIPI by using block letters 
 
 public class MISSIPI {
-
+/**
+ * @param args
+ */
 	public static void main(String[] args) {
 		printM();
 		printI();
@@ -17,7 +19,9 @@ public class MISSIPI {
 		printP();
 		printI();
 	}
-	
+	/**
+	 * Draws a M
+	 */
 	public static void printM(){
 		
 	System.out.println("M     M");
@@ -28,6 +32,9 @@ public class MISSIPI {
 	System.out.println("M     M");
 
 	}
+	/**
+	 * Draws a I
+	 */
 	public static void printI(){
 		System.out.println("IIIII");
 		System.out.println("  I");
@@ -37,6 +44,9 @@ public class MISSIPI {
 		System.out.println("  I");
 		System.out.println("IIIII");
 	}
+	/**
+	 * Draws a S
+	 */
 	public static void printS(){
 		System.out.println(" SSSS");
 		System.out.println("S    S");
@@ -47,6 +57,9 @@ public class MISSIPI {
 		System.out.println(" SSSS");
 	
 	}
+	/**
+	 * Draws a P
+	 */
 	public static void printP(){
 		System.out.println(" PPPPP ");
 		System.out.println("P     P");
